@@ -1,15 +1,8 @@
-# Basic Sample Hardhat Project
+# Buildspace NFT Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project is an experiment between integrating different components of web3 technologies. 
+It uses a Hardhat backbone, with Waffle & Chai for testing, alongside Ethers JS,
+In conjunction with the Open Zeppelin ERC721 standard. 
 
-Try running some of the following tasks:
+*https://testnets.opensea.io/assets/basednft
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
